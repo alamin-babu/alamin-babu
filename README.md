@@ -22,11 +22,10 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
   
 
 
- -  🔭 I’m currently working on something cool 😉
 
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🔭 I’m currently working on something cool 😉
+- 👯 I’m looking forward to collaborating on Python & PHP projects.
+- 🌱 Learning about Computer Vision, Machine Learning.
 
 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
