@@ -370,7 +370,8 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 ## <b>💪Quote || Fact</b>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
 
 <br>
 
